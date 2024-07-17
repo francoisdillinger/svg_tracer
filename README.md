@@ -1,5 +1,7 @@
 # SVG Tracer
 
+A simple SVG tracing game.
+
 ## Update
 
 Shortly after beginning this project, it was featured on CodePen. Check it out [here](https://codepen.io/memesAreLyfe/pen/PoVLbGX)!
